@@ -1,0 +1,203 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+	.single-slide h1{
+
+	font-size: 40px;
+	}
+	.single-slide p{
+
+	font-size: 18px;
+	}
+	.learn-more-btn a{
+
+	font-size: 18px;
+	}
+	.left-content-area{
+
+	text-align: center;
+	}
+	.left-content-area .thumb{
+
+	width:100%;
+	}
+	.left-content-area .thumb img{
+		width:100%;
+	}
+	.seacvices-offer{
+
+	padding: 30px 10px 0px 10px;
+	}
+	.seacvices-offer h2{
+
+	font-size: 22px;
+	}
+	.about-area-searvices-text h3{
+
+	font-size: 18px;
+	}
+	.product{
+
+	}
+	.product-info.text-left h3.name a{
+
+	font-size: 16px;
+	}
+	.sec-title p{
+
+	font-size: 14px;
+	}
+	.client-comment p{
+		
+	font-size: 14px;
+	}
+
+	
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+	.single-slide h1{
+
+	font-size: 50px;
+	}
+	.single-slide p{
+
+	font-size: 18px;
+	}
+	.learn-more-btn a{
+
+	font-size: 16px;
+	}
+	.left-content-area{
+
+	text-align: center;
+	}
+	.left-content-area .thumb{
+
+	width:100%;
+	}
+	.left-content-area .thumb img{
+		width:100%;
+	}
+	.seacvices-offer{
+
+	padding-top: 50px;
+	}
+
+	.product {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.product-info.text-left h3.name a{
+
+	font-size: 16px;
+	}
+	.sec-title p{
+
+	}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+	.single-slide h1{
+
+	font-size: 50px;
+	}
+	.single-slide p{
+
+	font-size: 18px;
+	}
+	.learn-more-btn a{
+
+	font-size: 16px;
+	}
+	.left-content-area{
+
+	text-align: center;
+	}
+	.left-content-area .thumb{
+
+	width:100%;
+	}
+	.left-content-area .thumb img{
+		width:100%;
+	}
+	.seacvices-offer{
+
+	padding-top: 50px;
+	}
+
+	.product {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.product-info.text-left h3.name a{
+
+	font-size: 16px;
+	}
+	.sec-title p{
+
+	}
+	.single-testimonial{
+		height: 250px;
+	}
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+	.single-slide h1{
+
+	font-size: 70px;
+	}
+	.single-slide p{
+
+	font-size: 25px;
+	}
+	.learn-more-btn a{
+
+	font-size: 18px;
+	}
+	.left-content-area{
+
+	text-align: center;
+	}
+	.left-content-area .thumb{
+		width:100%;
+	}
+	.left-content-area .thumb img{
+		width:100%;
+	}
+	.seacvices-offer{
+
+	padding-top: 50px;
+	}
+
+	.product {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.product-info.text-left h3.name a{
+
+	font-size: 18px;
+	}
+	.sec-title p{
+
+	font-size: 16px;
+	color: #626262;
+	}
+	.client-comment p {
+	font-size: 16px;
+	color: #626262;
+}
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+	.left-content-area .thumb{
+
+	width:100%;
+	}
+	.left-content-area .thumb img{
+		width:100%;
+	}
+}
